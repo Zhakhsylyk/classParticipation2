@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">classParticipation</string>
+    <string name="btn_animal">Animal Age</string>
+    <string name="btn_human">Human Age</string>
+    <string name="btn_plant">Plant Age</string>
+    <string name="Sbj_info">Subject INFO</string>
+    <string name="sbj_info_plant">Subject INFO</string>
+    <string name="sbj_info_animal">Subject INFO</string>
+    <string name="btn_plant2">Plant age</string>
+    <string name="sbj_human_btn">Subject info</string>
+    <string name="sbj_animal_btn">Subject info</string>
+
+</resources>

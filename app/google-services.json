@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631515066110",
+    "project_id": "classparticipation-bd43e",
+    "storage_bucket": "classparticipation-bd43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631515066110:android:fe07bfd08b256f4cd0ffaf",
+        "android_client_info": {
+          "package_name": "com.example.classparticipation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631515066110-khngjqrvlqa8pmc01l5j660k6c8st02h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyytSyCKUl5pWHLoLIyl8pwXdqYi5ZH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631515066110-khngjqrvlqa8pmc01l5j660k6c8st02h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
